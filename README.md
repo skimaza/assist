@@ -2,4 +2,4 @@
 서울과학종합대학원대학교 2021년 경영자를 위한 딥러닝 원리의 이해 실습 자료
 
 
-이 리포지토리는 3월말에 다시 공개될 예정입니다.
+Relocated to assist_ai (https://github.com/skimaza/assist_ai). 2022-03-14
